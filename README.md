@@ -28,7 +28,7 @@ estudosPandas/
 
 ## Datasets Disponíveis
 
-### Fórmula 1 (1950-2020)
+### Fórmula 1 (1950-2024)
 - circuits.csv - Circuitos
 - drivers.csv - Pilotos
 - constructors.csv - Construtores/Equipes
