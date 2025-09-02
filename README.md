@@ -4,7 +4,7 @@ Este projeto contém análises estatísticas de dados esportivos utilizando Pyth
 
 ## Fonte dos Dados
 
-- **Copa Libertadores (2011-2022)**: [CONMEBOL Libertadores Results from 2011 to 2022](https://www.kaggle.com/datasets/ernestonlm/conmebol-libertadores-results-from-2011-to-2022)
+- **Copa Libertadores (2011-2024)**: [CONMEBOL Libertadores Results from 2011 to 2024](https://www.kaggle.com/datasets/ernestonlm/conmebol-libertadores-results-from-2011-to-2022)
 - **Fórmula 1 (1950-2020)**: [Formula 1 World Championship (1950-2020)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data)
 
 ## Estrutura do Projeto
@@ -44,7 +44,7 @@ estudosPandas/
 - seasons.csv - Temporadas
 - status.csv - Status das corridas
 
-### Copa Libertadores (2011-2022)
+### Copa Libertadores (2011-2024)
 - libertadores-results-ds.csv - Resultados completos da competição
 
 ## Notebooks Disponíveis
